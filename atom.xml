@@ -5,9 +5,9 @@
   <subtitle>小红花</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://xiaohonghuabei.github.io/"/>
   <updated>2019-03-16T06:19:48.382Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://xiaohonghuabei.github.io/</id>
   
   <author>
     <name>xiaohonghua</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/16/hello-world/"/>
-    <id>http://yoursite.com/2019/03/16/hello-world/</id>
+    <link href="https://xiaohonghuabei.github.io/2019/03/16/hello-world/"/>
+    <id>https://xiaohonghuabei.github.io/2019/03/16/hello-world/</id>
     <published>2019-03-16T06:19:48.381Z</published>
     <updated>2019-03-16T06:19:48.382Z</updated>
     
