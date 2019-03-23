@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xiaohonghuabei.github.io/"/>
-  <updated>2019-03-16T06:19:48.382Z</updated>
+  <updated>2019-03-23T05:12:27.001Z</updated>
   <id>https://xiaohonghuabei.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>欢迎页面</title>
     <link href="https://xiaohonghuabei.github.io/2019/03/16/hello-world/"/>
     <id>https://xiaohonghuabei.github.io/2019/03/16/hello-world/</id>
     <published>2019-03-16T06:19:48.381Z</published>
-    <updated>2019-03-16T06:19:48.382Z</updated>
+    <updated>2019-03-23T05:12:27.001Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;欢迎来到小红花个人博客网站&lt;/p&gt;
+&lt;h2 id=&quot;这是一个技术网站&quot;&gt;&lt;a href=&quot;#这是一个技术网站&quot; class=&quot;headerlink&quot; title=&quot;这是一个技术网站&quot;&gt;&lt;/a&gt;这是一个技术网站&lt;/h2&gt;&lt;h3 id=&quot;数码维修&quot;&gt;&lt;a
         
       
     

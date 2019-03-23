@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaohonghuabei.github.io/2019/03/16/hello-world/</loc>
+    
+    <lastmod>2019-03-23T05:12:27.001Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xiaohonghuabei.github.io/friends/index.html</loc>
     
     <lastmod>2019-03-17T05:12:25.845Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://xiaohonghuabei.github.io/categories/index.html</loc>
     
     <lastmod>2019-03-17T05:06:12.794Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaohonghuabei.github.io/2019/03/16/hello-world/</loc>
-    
-    <lastmod>2019-03-16T06:19:48.382Z</lastmod>
     
   </url>
   
